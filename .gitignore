@@ -1,4 +1,6 @@
 /__pycache__/
 /flask_blog_venv/
 *.pyc
+chromedriver_linux64.zip
+chromedriver
 ::
